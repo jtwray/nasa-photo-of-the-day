@@ -17,10 +17,10 @@ Commit your code regularly and meaningfully. This helps both you and your team l
 
 ---
 
-This homework is a continuation of the work you have done previously.
+This homework is a continuation of the work you hve done previously.
 
 - [ ] CD into your old project
-- [ ] Continue to make changes and push to the same branch
+- [ ] Continue to make changes and push to the same braanch
 
 
 Follow these steps for completing your project.
